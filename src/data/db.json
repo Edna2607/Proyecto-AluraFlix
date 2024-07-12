@@ -1,0 +1,84 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "¿Que Aprender?",
+      "category": "Fullstack",
+      "imageUrl": "https://edteam-media.s3.amazonaws.com/blogs/original/f3b5c786-6725-468a-ae2b-ab2a21fa41a1.png",
+      "videoUrl": "https://www.youtube.com/watch?v=rhfopuum2f4",
+      "description": "¿Que debes Saber para ser un FullStack?"
+    },
+    {
+      "id": "2",
+      "title": "Fullstack",
+      "category": "Fullstack",
+      "description": "Que es FullStack?",
+      "imageUrl": "https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=7b7jNjVFqtA&t=49s",
+      "banner": false
+    },
+    {
+      "id": "3",
+      "title": "¿Javascript?",
+      "category": "Frontend",
+      "imageUrl": "https://www.mytaskpanel.com/wp-content/uploads/2023/05/consulting-blog-12.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=x5YUu0eUc8s&list=PLQxX2eiEaqbwnzKnmqHDl0rkRvp_T7Q_W",
+      "description": "Curso de Javascript desde Cero."
+    },
+    {
+      "id": "4",
+      "title": "¿React?",
+      "category": "Frontend",
+      "description": "Curso de React desde Cero.",
+      "imageUrl": "https://i.ytimg.com/vi/rLoWMU4L_qE/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=7iobxzd_2wY&list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29",
+      "banner": false
+    },
+    {
+      "id": "5",
+      "title": "¿Java?",
+      "category": "Backend",
+      "description": "¡Descubre el camino hacia el éxito como desarrollador Java! 💻🚀 ",
+      "imageUrl": "https://www.mytaskpanel.com/wp-content/uploads/2023/04/consulting-blog-09.webp",
+      "videoUrl": "https://youtu.be/zOetOoeOrOg",
+      "videoIframeUrl": "https://www.youtube.com/embed/zOetOoeOrOg",
+      "banner": true
+    },
+    {
+      "id": "6",
+      "title": "FrontEnd vs BackEnd",
+      "category": "Backend",
+      "description": "Diferencias entre FrontEnd y BackEnd.",
+      "imageUrl": "https://hipolitomorales.com/wp-content/uploads/2019/12/frontend-vs-backend-800x527.png",
+      "videoUrl": "https://www.youtube.com/watch?v=i9M7gdzlA7I",
+      "banner": false
+    },
+    {
+      "id": "7",
+      "title": "¿Que Aprender en BackEnd?",
+      "category": "Backend",
+      "description": "Backend y sus tecnologias",
+      "imageUrl": "https://d31i9b8skgubvn.cloudfront.net/folder/encyclopedia/Conocimientos%20de%20un%20desarrollador%20backend.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=0Zb5fgO0ubE"
+    },
+    {
+      "id": "8",
+      "title": "¿SQL Y NoSQL",
+      "category": "Backend",
+      "description": "",
+      "imageUrl": "https://blog.epayco.com/wp-content/uploads/2022/02/6.-Dic-5-beneficios-del-lenguaje-SQL-para-manejar-las-bases-de-datos-1536x1045.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+      "videoIframeUrl": "https://www.youtube.com/embed/BxcMMgmLKTU",
+      "banner": true
+    },
+    
+    {
+      "id": "9",
+      "title": "Spring Framework",
+      "category": "Backend",
+      "description": "¿Que es?",
+      "imageUrl": "https://cdn.educba.com/academy/wp-content/uploads/2020/01/what-is-spring-framework.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=t-iqt1b2qqk"
+    }
+  ]
+}
